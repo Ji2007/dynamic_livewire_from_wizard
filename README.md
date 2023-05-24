@@ -13,6 +13,7 @@ Before you begin, make sure you have the following installed on your machine:
 
 ## Installation
 
+- composer install
 - cp .env.example .env
 - php artisan key:generate
 - php artisan serve
